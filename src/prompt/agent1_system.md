@@ -1,0 +1,1 @@
+<!-- Do not hardcode your long system prompts in your Python code. It's a nightmare to edit. Put them in separate .md or .txt files. Your agent-builder code will then read these files to get the prompt. This lets you tweak your agent's personality and instructions without touching your logic. -->
